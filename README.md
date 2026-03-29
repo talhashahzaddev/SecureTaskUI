@@ -1,6 +1,10 @@
 # SecureTaskApp
+ 
+ This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.23.
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.23.
+
+## 🎥 Demo Preview
+![App Demo](SecureTaskDemoGif.gif)
 
 ## Development server
 
